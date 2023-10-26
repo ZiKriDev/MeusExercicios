@@ -15,10 +15,14 @@ Um simples programa que armazena entrada de dados fornecidos pelo usuário e os 
 
 ## Status
 
-![100porcento](https://i.imgur.com/HXXMazr.png)
+<img src="https://i.imgur.com/HXXMazr.png" width="800" alt="Status">
 
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td>
 
 
 
