@@ -13,7 +13,7 @@ Um simples programa que armazena entrada de dados fornecidos pelo usuário e os 
     </td>
     <td>
 
-# Status
+## Status
 
 ![100porcento](https://i.imgur.com/HXXMazr.png)
 
